@@ -4,7 +4,9 @@ Use this wrapper to connect to the itBit API
 
 ## Requirements
 
-Use pip to install the dependencies
+Use pip to install the dependencies:
+
+`$ pip install -r requirements.txt`
 
 ## Compatibility
 
